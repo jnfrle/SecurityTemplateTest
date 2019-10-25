@@ -1,10 +1,10 @@
 ## Final Project - Flight Reservation
 
-**Heroku URL
+**Heroku URL**
 
 "https://secret-tundra-24215.herokuapp.com/"
 
-**Project Developers
+**Project Developers**
 
 - Yun Chen
 - Nick Boober
@@ -21,7 +21,7 @@ Like any flight reservation, the user is able to customize the following options
 - Date flying out
 - Date returning
 
-**Flight results displayed should include:
+**Flight results displayed should include:**
 
 - The destination
 - The flight duration
@@ -31,7 +31,7 @@ Like any flight reservation, the user is able to customize the following options
 
 Users can either log into their account to shop for a flight or create an account upon checking out. Users should be able to see a list of their flight history when logged into their accounts.
 
-**A single user in the system should have:
+**A single user in the system should have:**
 
 - A first and last name
 - Their birth date
