@@ -44,7 +44,7 @@ After the user checks out, generate a boarding pass with their flight informatio
 Admins can add flights to the system.
 
 **Use these credentials for testing:**
-Admin 
-- username: "admin", password: "password"
-User
-- username: "jim", password: "begreat"
+- Admin 
+  - username: "admin", password: "password"
+- User
+  - username: "jim", password: "begreat"
