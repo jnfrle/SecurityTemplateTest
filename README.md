@@ -42,3 +42,9 @@ Users can either log into their account to shop for a flight or create an accoun
 After the user checks out, generate a boarding pass with their flight information and user information stored in a QR code.
 
 Admins can add flights to the system.
+
+**Use these credentials for testing:**
+Admin 
+- username: "admin", password: "password"
+User
+- username: "jim", password: "begreat"
